@@ -85,7 +85,6 @@ curl -X GET "http://localhost:5000/api/v1/language-detection/detect?text=your%20
 
 - **Macro Accuracy**: 0.9881
 - **Micro Accuracy**: 0.9881
-- **Top-K Prediction Count**: 0
 - **Log Loss**: 0.0653
 - **Log Loss Reduction**: 0.9703
 
@@ -93,7 +92,6 @@ curl -X GET "http://localhost:5000/api/v1/language-detection/detect?text=your%20
 
 - **Macro Accuracy**: 0.9722
 - **Micro Accuracy**: 0.9722
-- **Top-K Prediction Count**: 0
 - **Log Loss**: 0.1320
 - **Log Loss Reduction**: 0.9635
 
