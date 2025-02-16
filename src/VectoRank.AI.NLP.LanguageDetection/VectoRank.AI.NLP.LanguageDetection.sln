@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectoRank.AI.NLP.LanguageDetection.WebApp", "VectoRank.AI.NLP.LanguageDetection.WebApp\VectoRank.AI.NLP.LanguageDetection.WebApp.csproj", "{0704A9EC-B820-4AFF-A194-01E804F221EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectoRank.AI.NLP.LanguageDetection.Application", "VectoRank.AI.NLP.LanguageDetection.Application\VectoRank.AI.NLP.LanguageDetection.Application.csproj", "{AC76395E-F023-40B0-89E6-175798A34CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0704A9EC-B820-4AFF-A194-01E804F221EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0704A9EC-B820-4AFF-A194-01E804F221EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0704A9EC-B820-4AFF-A194-01E804F221EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0704A9EC-B820-4AFF-A194-01E804F221EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC76395E-F023-40B0-89E6-175798A34CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC76395E-F023-40B0-89E6-175798A34CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC76395E-F023-40B0-89E6-175798A34CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC76395E-F023-40B0-89E6-175798A34CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805D2548-373E-4A24-A9D5-CD87C8B493CC}
+	EndGlobalSection
+EndGlobal
