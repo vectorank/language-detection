@@ -1,4 +1,4 @@
-# VectoRank Language Detection API 🏆🌍
+# VectoRank Language Detection API 🌍
 
 VectoRank Language Detection is a free and open-source API that enables seamless language detection in applications. It provides an easy-to-use REST API powered by **ML.NET** using the **LbfgsMaximumEntropy** algorithm.
 
@@ -37,7 +37,7 @@ Includes all from `vectorank-ld-12`, plus:
 
 ### 🔧 Configuration
 
-Set the `ModelName` parameter in `appsettings.json`:
+Set the `ModelName` parameter in `variables`:
 
 ```json
 {
