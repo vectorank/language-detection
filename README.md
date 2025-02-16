@@ -102,6 +102,7 @@ curl -X GET "http://localhost:5000/api/v1/language-detection/detect?text=your%20
 - 🌍 **Website**: [vectorank.com](https://vectorank.com)
 - 💻 **GitHub Repository**: [vectorank/language-detection](https://github.com/vectorank/language-detection)
 - 🐳 **Docker Hub**: [vectorank/language-detection](https://hub.docker.com/r/vectorank/language-detection)
+- 🧠 **Models**: [Model Files](https://github.com/vectorank/language-detection/tree/main/src/VectoRank.AI.NLP.LanguageDetection/VectoRank.AI.NLP.LanguageDetection.WebApp/Models)
 
 For any questions or contributions, feel free to reach out! 🚀
 
