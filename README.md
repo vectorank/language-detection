@@ -83,6 +83,7 @@ curl -X GET "http://localhost:5000/api/v1/language-detection/detect?text=your%20
 
 ### **vectorank-ld-12 Metrics**
 
+- **Model Size**: 9 MB
 - **Macro Accuracy**: 0.9881
 - **Micro Accuracy**: 0.9881
 - **Log Loss**: 0.0653
@@ -90,6 +91,7 @@ curl -X GET "http://localhost:5000/api/v1/language-detection/detect?text=your%20
 
 ### **vectorank-ld-37 Metrics**
 
+- **Model Size**: 34 MB
 - **Macro Accuracy**: 0.9722
 - **Micro Accuracy**: 0.9722
 - **Log Loss**: 0.1320
